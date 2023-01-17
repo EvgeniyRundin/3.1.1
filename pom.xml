@@ -10,15 +10,9 @@
         <version>2.7.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-
-    <groupId>com.smrnv</groupId>
-    <artifactId>Task_3_1_1</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
-    <name>Task_3_1_1</name>
-
+         
     <properties>
-        <java.version>11</java.version>
+        <java.version>19</java.version>
     </properties>
 
     <dependencies>
